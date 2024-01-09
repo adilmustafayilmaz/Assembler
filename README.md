@@ -1,6 +1,6 @@
 # This is a simple assembler project.
 
-This project only supper the following instructions:
+This project only support the following instructions:
  - ADD, SUB, AND, OR (R-type)
 
  - ADDI, ANDI, SLL (I-Type)
