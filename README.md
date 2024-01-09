@@ -1,9 +1,9 @@
 # This is a simple assembler project.
 
 This project only support the following instructions:
- - ADD, SUB, AND, OR (R-type)
+ - ADD, SUB, AND, OR, SLL (R-type)
 
- - ADDI, ANDI, SLL (I-Type)
+ - ADDI, ANDI (I-Type)
 
  - BEQ, BNE  (I-type)
 
